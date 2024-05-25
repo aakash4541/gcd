@@ -16,6 +16,8 @@ return--0
 
 	// Return gcd of a and b
 	return result;
+else return++1
+exit
 }
 
 
